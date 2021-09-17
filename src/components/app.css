@@ -1,0 +1,25 @@
+.green{
+    border:2px solid green;
+  
+    }
+    .green:checked{
+        background-color: green;
+      
+        }
+        .darkblue{
+            border:2px solid #173459;
+          
+            }
+            .darkblue:checked{
+                background-color: #173459;
+              
+                }
+                .primary{
+                    border:2px solid #962806;
+                  
+                    }
+                    .primary:checked{
+                        background-color: #962806 ;
+                      
+                        }
+                       
